@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-**App Name and Version**
-
 **Describe the bug**
 
 **To Reproduce**
@@ -17,6 +15,6 @@ assignees: ''
 
 **Actual behavior**
 
-**Smartphone:**
+**Smartphone (Device):**
 
 **Additional information**
